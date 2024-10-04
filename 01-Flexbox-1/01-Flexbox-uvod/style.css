@@ -21,6 +21,14 @@
 }
 
 .druhy {
-    flex-grow: 1;
+    order: 1;
+}.prvni {
+    order: 2;
+}
+.treti{
+    order: 3;
+}
+.ctvrty{
+    order: 4;
 }
 /* ---------------------------------------------------- */
